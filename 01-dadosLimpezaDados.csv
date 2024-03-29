@@ -1,0 +1,12 @@
+
+Nome,Idade,Email,Categoria
+Ana,25,,A
+Bruno,30,bruno@example.com,B
+Carlos,,carlos@example.net,A
+,45,diana@example.org,C
+Eva,35,eva@example.com,B
+Fábio,40,fabio@example.net,C
+Gina,,,
+Hugo,50,hugo@example.org,B
+Inês,45,ines@example.com,
+Bruno,30,bruno@example.com,B
